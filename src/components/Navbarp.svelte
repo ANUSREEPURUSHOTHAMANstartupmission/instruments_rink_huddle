@@ -58,7 +58,7 @@
   
     <main class=" flex  items-start  my-auto">
         <div class="flex my-auto "style="font-family: Museo-Sans, sans-serif;"> 
-            <a href="/#home"  class="md:flex cursor-pointer hidden px-4 py-3  md:py-1 uppercase   text-sm">Home</a>
+            <a href="/"  class="md:flex cursor-pointer hidden px-4 py-3  md:py-1 uppercase   text-sm">Home</a>
             <a href="/instruments" class="md:flex cursor-pointer hidden px-4 py-3  md:py-1 uppercase  text-sm">Instruments</a>
             <a href="/#contact" class="md:flex cursor-pointer hidden px-4 py-3  md:py-1 uppercase  text-sm">Contact</a>
                 </div>
