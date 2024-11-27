@@ -59,7 +59,7 @@
     <main class=" flex  items-start  my-auto">
         <div class="flex my-auto "style="font-family: Museo-Sans, sans-serif;"> 
             <a href="/"  class="md:flex cursor-pointer hidden px-4 py-3  md:py-1 uppercase   text-sm">Home</a>
-            <a href="/instruments" class="md:flex cursor-pointer hidden px-4 py-3  md:py-1 uppercase  text-sm">Instruments</a>
+            <a href="/instruments" class="md:flex cursor-pointer hidden px-4 py-3  md:py-1 uppercase  text-sm">Instrument Data</a>
             <a href="/#contact" class="md:flex cursor-pointer hidden px-4 py-3  md:py-1 uppercase  text-sm">Contact</a>
                 </div>
        
@@ -110,7 +110,7 @@
                     </li>
 
                     <li on:click="{()=> menu_open = !menu_open }" class="px-5 py-2 transform hover:bg-gray-400 transition duration-500 hover:scale-100 md:hidden flex">
-                        <a href="/instruments" class="md:text-white cursor-pointer text-white font-bold hover:text-black uppercase ">Instruments</a>
+                        <a href="/instruments" class="md:text-white cursor-pointer text-white font-bold hover:text-black uppercase ">Instrument Data</a>
                     </li>
 
                     <li on:click="{()=> menu_open = !menu_open }" class="px-5 py-2 transform hover:bg-gray-400 transition duration-500 hover:scale-100 md:hidden flex">
